@@ -6,6 +6,11 @@
   /* --background-app: #6d4646; */
 }
 
+.category-info{
+  font-family: "Poppins", sans-serif;
+  color: white;
+}
+
 body {
   font-family: "Poppins", sans-serif;
   color: white;
