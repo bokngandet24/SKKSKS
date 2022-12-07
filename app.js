@@ -99,7 +99,7 @@ btnAddNewCategory.addEventListener("click", function (e) {
   let newCategoryLI = document.createElement("LI");
   newCategoryLI.innerHTML = `
               <div class="category-info">
-                  <span class="material-symbols-outlined">home</span>
+                  <span class="material-symbols-outlined">note_add</span>
                   <input type="text">
               </div>`;
 
