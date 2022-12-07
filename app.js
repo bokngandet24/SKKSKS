@@ -1,5 +1,3 @@
-// import tasks from "./tasks.json" assert { type: "json" };
-// console.log(tasks);
 tasks = document.querySelector(".tasks-list ul");
 categories = document.querySelector(".categories ul");
 
